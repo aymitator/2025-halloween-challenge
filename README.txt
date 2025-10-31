@@ -5,11 +5,11 @@ Sun's language
 C add add
 etcetera
 
-public class Pumpkin {
+public class Halloweenedibles {
   public bool eaten = !true;
   public void eat(){ eaten = true; }
 }
-public class Fall {
+public class Nonsummer {
   public bool is_true = true;
 }
 public class _202iiiii {
