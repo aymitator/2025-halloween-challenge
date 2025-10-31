@@ -1,8 +1,12 @@
 Welcome to 2025 Halloween Challenge by me, aymitator
 
 Challenge is to create:
-a) Halloween objects/classes
+a) Halloween objects/classes und/or:
 b) sed commands to add Halloween-style to a log regular non-directory
+
+Rules:
+1) No running any source on your machine(s) necessary!
+ii) Submit your ideas as Issues any way seeming right 
 
 ---------------------------------
 
