@@ -1,5 +1,11 @@
 Welcome to 2025 Halloween Challenge by me, aymitator
 
+Challenge is to create:
+a) Halloween objects/classes
+b) sed commands to add Halloween-style to a log regular non-directory
+
+---------------------------------
+
 Create Halloween classes at any object-oriented machine-source language:
 Sun's language
 C add add
